@@ -1,0 +1,4 @@
+/Users/vitaliyhayda/Desktop/UCU2/АКС/HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vitaliyhayda/Desktop/UCU2/АКС/HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vitaliyhayda/Desktop/UCU2/АКС/HW2/cmake-build-debug/CMakeFiles/parallel.dir
+/Users/vitaliyhayda/Desktop/UCU2/АКС/HW2/cmake-build-debug/CMakeFiles/sequential.dir

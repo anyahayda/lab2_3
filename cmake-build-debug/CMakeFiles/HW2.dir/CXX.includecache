@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vitaliyhayda/Desktop/UCU2/АКС/HW2/main.cpp
+iostream
+-
+iomanip
+-
+thread
+-
+vector
+-
+sequential.h
+/Users/vitaliyhayda/Desktop/UCU2/АКС/HW2/sequential.h
+future
+-
+
+/Users/vitaliyhayda/Desktop/UCU2/АКС/HW2/sequential.h
+
